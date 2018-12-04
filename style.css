@@ -5,12 +5,10 @@ ul {
     overflow: hidden;
     background-color: midnightblue;
 }
-
-li {
+nav li {
     float: left;
 }
-
-li a {
+nav li a {
     display: block;
     color: white;
     text-align: center;
@@ -18,31 +16,39 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+nav li a:hover {
     background-color: seagreen;
 }
+
 body {
     background-color: slategray;
 }
+
 h1 {
     color: black;
 }
+
 p {
     color: black;
     font-size:20px;
 }
+
 h2 {
     color: black;
 }
+
 b {
     color: black;
 }
+
 marked {
     background-color:limegreen;
 }
+
 button {
     background-color: limegreen;
 }
+
 ol {
     font-size: 20px;
 }
