@@ -5,10 +5,10 @@ ul {
     overflow: hidden;
     background-color: midnightblue;
 }
-nav li {
+li {
     float: left;
 }
-nav li a {
+li a {
     display: block;
     color: white;
     text-align: center;
@@ -16,7 +16,7 @@ nav li a {
     text-decoration: none;
 }
 
-nav li a:hover {
+li a:hover {
     background-color: seagreen;
 }
 
